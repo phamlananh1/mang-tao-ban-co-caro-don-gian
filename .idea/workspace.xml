@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7b41d0d1-8afc-42d0-99b6-d6d44c985dbc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Giải quyết vấn đề và thuật toán/tìm giá trị lớn nhất,nhỏ nhất/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Giải quyết vấn đề và thuật toán/tìm giá trị lớn nhất,nhỏ nhất/thực hành giá trị lớn nhất, nhỏ nhất.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Giải quyết vấn đề và thuật toán/đếm số lần xuất hiện của phần tử/bài 1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bài tập Cấu trúc lặp/luyen tap vong lap 2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bài tập Cấu trúc lặp/luyen tap vong lap 2/bai 1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bài tập Cấu trúc lặp/luyen tap vong lap 2/bai 2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bài tập Cấu trúc lặp/luyen tap vong lap 2/bai 3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bài tập Cấu trúc lặp/luyen tap vong lap 2/doc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bài tập Cấu trúc lặp/vong lap do-while/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bài tập Cấu trúc lặp/vong lap do-while/bai 1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bài tập hàm/Tìm giá trị nhỏ nhất của mảng/v.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bài tập hàm/Tìm giá trị nhỏ nhất của mảng/vc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bài tập hàm/feet và meters/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bài tập hàm/feet và meters/feet và meters.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bài tập hàm/kiem tra so nguyen to/kiem tra so nguen to.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bài tập hàm/luyện tập hàm 2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bài tập hàm/quản lý sản phẩm/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bài tập hàm/quản lý sản phẩm/quản lý sản phẩm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bài tập hàm/quản lý sản phẩm/quản lý sản phẩm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../câu điều kiện/luyện tập câu điều kiện 2/bai 1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../câu điều kiện/luyện tập câu điều kiện 2/baif 3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../câu điều kiện/luyện tập câu điều kiện 2/bài 4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../câu điều kiện/luyện tập câu điều kiện 2/bài 5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../câu điều kiện/luyện tập câu đk 1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../câu điều kiện/luyện tập câu đk 1/bai 2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../câu điều kiện/luyện tập câu đk 1/bai 3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../câu điều kiện/luyện tập câu đk 1/bai 7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../câu điều kiện/luyện tập câu đk 1/baif 1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../câu điều kiện/luyện tập câu đk 1/bài 4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../câu điều kiện/luyện tập câu đk 1/bài 5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../câu điều kiện/luyện tập câu đk 1/bài 6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../học lại/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../học lại/b.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../học lại/dien tich.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../học lại/v.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lap trinh huong doi tuong 2/den pin/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lap trinh huong doi tuong 2/den pin/v.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lap trinh huong doi tuong 2/di chuyen/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lap trinh huong doi tuong 2/di chuyen/java.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lap trinh huong doi tuong 2/thuc hanh/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lap trinh huong doi tuong 2/thuc hanh/[Bài đọc] Thiết kế trong Lập.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lap trinh huong doi tuong 2/thuc hanh/bai doc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lap trinh huong doi tuong 2/thuc hanh/doc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lập trình hương đói tượng 1/Dien thoai/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lập trình hương đói tượng 1/Dien thoai/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lập trình hương đói tượng 1/Dien thoai/2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lập trình hương đói tượng 1/Funny circles/bai 1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lập trình hương đói tượng 1/Temperature/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lập trình hương đói tượng 1/Temperature/Temperature.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lập trình hương đói tượng 1/hinh chu nhat/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lập trình hương đói tượng 1/hinh chu nhat/hinh chu nhat.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xủ lý chuỗi/Kiểm tra ký tự đầu tiên/Kiểm tra ký tự đầu tiên.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xủ lý chuỗi/Luyện tập sử dụng biểu thức chính quy/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xủ lý chuỗi/Validate account/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xủ lý chuỗi/Validate account/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xủ lý chuỗi/Validate email/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xủ lý chuỗi/Validate email/2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xủ lý chuỗi/Validate số điện thoại/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xủ lý chuỗi/Validate số điện thoại/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xủ lý chuỗi/Validate tên của lớp học/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xủ lý chuỗi/Validate tên của lớp học/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../xủ lý chuỗi/nước mỹ/v.html" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1746553572">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="5" />
+          <entry key="js" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="5" />
+          <entry key="JavaScript" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="64" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="64" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="629">
+              <caret line="42" column="9" lean-forward="true" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/2.js" />
+        <option value="$PROJECT_DIR$/2.html" />
+        <option value="$PROJECT_DIR$/3.js" />
+        <option value="$PROJECT_DIR$/1.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="772" />
+    <option name="y" value="77" />
+    <option name="width" value="558" />
+    <option name="height" value="629" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="thực hành cờ cảo đơn giản" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thực hành cờ cảo đơn giản" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../bài tập hàm/Tìm giá trị nhỏ nhất của mảng" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b41d0d1-8afc-42d0-99b6-d6d44c985dbc" name="Default Changelist" comment="" />
+      <created>1542866776737</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542866776737</updated>
+      <workItem from="1542866789421" duration="2419000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2419000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="31" selection-start-line="31" selection-end-line="31" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="1" selection-end-line="31" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="36" lean-forward="true" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="42" column="9" lean-forward="true" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
